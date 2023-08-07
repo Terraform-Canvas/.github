@@ -1,7 +1,5 @@
 ## 👋 Hello, everyone 
-We're developing **🚀Terraform Canvas** to make Terraform user-friendly for all. Many struggle with its steep learning curve.  
-
-So, we aim to **simplify** the process, **enabling** anyone to effortlessly build a **cloud-native environment🌤️** using Terraform. Join us in our mission!
+We're developing **🚀Terraform Canvas** to make Terraform user-friendly for all. Many struggle with its steep learning curve.  So, we aim to **simplify** the process, **enabling** anyone to effortlessly build a **cloud-native environment🌤️** using Terraform. Join us in our mission!
 
 
 ## ⭐ Our team values 
